@@ -1,5 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/119693526/206932777-762014fa-eebd-432a-90a0-480c12c9c8ee.jpg" height="250"  >
-<h1>Thayla Masson :sunflower:</h1>
+<h1>Thay :sunflower:</h1>
 
 
 <h3>Hey Devs!</h3>
@@ -39,8 +39,8 @@ Aqui compartilharei meus projetos pessoais que tenho feito para aprimorar meus c
 <div>
 <h2></h2><br>
 <a href="https://github.com/thaylamasson">
-<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylamasson&layout=compact&langs_count=7&theme=gruvbox_light"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thaylamasson&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+<img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylamasson&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>          
           
           
