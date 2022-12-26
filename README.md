@@ -39,8 +39,8 @@ Aqui compartilharei meus projetos pessoais que tenho feito para aprimorar meus c
 <div>
 <h2></h2><br>
 <a href="https://github.com/thaylamasson">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thaylamasson&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-<img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylamasson&layout=compact&langs_count=7&theme=gruvbox_light"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thaylamasson&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true">
+<img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylamasson&layout=compact&langs_count=7&theme=gruvbox_light">
 </div>          
           
           
